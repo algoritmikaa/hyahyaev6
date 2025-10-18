@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:white;
+    border:3px solid blue;
+    border-radius:10px;
+    padding:3px;
+}
+
+header a {
+    text-decoration:none;
+    background-color:blue;
+    color:white;
+    border-radius:5px;
+    padding:3px
+}
+
+main h1 {
+    text-align:center;
+    color:orange;
+}
+
+footer p {
+    border: 7px solid palegreen;
+    background-color:palegreen;
+}
+
+
+
+.algo {
+    background-color:brown;
+    padding:15px;
+    border-radius:10px;
+}
+
+.algo1 {
+   color:blue;  
+}
+
+.algo2 {
+    text-decoration:none;
+    border: 2px solid blue;
+    padding:3px;
+    margin:3px;
+}
